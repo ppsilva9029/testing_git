@@ -1,4 +1,4 @@
 History
 
-The first file in this repo is arbol.txt, it has a tree of the Desktop 
-folder.
+The first file in this repo is arbol.txt,
+it has a tree of the Desktop folder.
