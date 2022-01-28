@@ -1,0 +1,399 @@
+.
+├── AppDpython
+│   ├── BLMet3
+│   ├── BoxLayouts
+│   ├── ElHelloWorld
+│   ├── Pong
+│   ├── Qtguis
+│   ├── Tkiniterguis
+│   ├── Widgets
+│   └── pyinstaller.txt
+├── DataSets
+│   ├── carts_has_products.txt
+│   ├── category.txt
+│   ├── option.txt
+│   ├── order.txt
+│   ├── orders_has_products.txt
+│   ├── orders_has_products.xlsx
+│   ├── orders_paid_creditcard.txt
+│   ├── orders_placed_user.txt
+│   ├── product_sold_vendor.txt
+│   ├── product_sold_vendor.xlsx
+│   ├── products.txt
+│   ├── products.xlsx
+│   ├── products_belong_category.txt
+│   ├── products_has_options.txt
+│   ├── products_has_options.xlsx
+│   ├── shoppingcart.txt
+│   ├── user.txt
+│   ├── user_has_creditcard.txt
+│   ├── vendor.txt
+│   └── vendor.xlsx
+├── Discord.lnk
+├── Diseño web
+│   ├── Apach
+│   ├── CmapToolsTrademark.gif
+│   ├── Cuentas básicas de la contabilidad.html
+│   ├── Cuentas básicas de la contabilidad.jpg
+│   ├── Cuentas básicas de la contabilidad2.html
+│   ├── cosas
+│   ├── entrada.html
+│   ├── imagenbonita.png
+│   ├── index.html
+│   ├── micuenta.html
+│   ├── nosotros.html
+│   ├── pag3.html
+│   ├── pag4.html
+│   └── tablas.html
+├── DriversS
+│   └── iSST_DCH_Intel_Z_V10.29.00.6590_25093.exe
+├── FIEL_SIRJ710727UW7_20210927132350
+│   ├── Claveprivada_FIEL_SIRJ710727UW7_20210927_132350.key
+│   ├── Requerimiento_FIEL_SIRJ710727UW7_20210927_132350.req
+│   ├── sirj710727uw7.cer
+│   └── txt.txt
+├── MAZDA JUAN DIEGO.pdf
+├── Mariana
+│   ├── 68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f45534a4c417655725f68595f79413d3d2d313036373134393732372e.jpg
+│   ├── EHq0rxpVAAAvND1.jpg
+│   ├── PIMAS.pptx
+│   ├── TEPEHUANES.pptx
+│   ├── Ubicación.docx
+│   ├── b55ee1a648aa8d4d17676a7b6ebff0c3.jpg
+│   ├── descarga.jpg
+│   ├── hugo.jpg
+│   └── png-clipart-grant-gustin.png
+├── Microsoft Teams.lnk
+├── NO BORRAR JOSE SILVA
+│   ├── 120223267401.pdf
+│   ├── ACTA COSNTITUTIVA.pdf
+│   ├── APOLIZA.pdf
+│   ├── CAMBIO RFC SRA GAMBOA.pdf
+│   ├── CARTA BERTHA RUIZ.pdf
+│   ├── CARTA JOSE SILVA.pdf
+│   ├── COMP  PETER NEUFELD.pdf
+│   ├── COMP DE DOM.JOSE SILVA.jpg
+│   ├── COMP DE PAGOS
+│   ├── COMP DOM.JOSE.pdf
+│   ├── COMP DOMICILIO ALONSO.pdf
+│   ├── COMP DOMICILIO ARMANDO.pdf
+│   ├── COMP DOMICILIO CORNELIUS.pdf
+│   ├── COMP DOMICILIO DAVID PETERS.pdf
+│   ├── COMP DOMICILIO GABRIEL.pdf
+│   ├── COMP DOMICILIO JORGE ACOSTA.pdf
+│   ├── COMP DOMICILIO MARIO LUJAN.pdf
+│   ├── COMP DOMICILIO MENY.pdf
+│   ├── COMP DOMICILIO VERO.pdf
+│   ├── COMP NUEVO JOSE SILVA.pdf
+│   ├── COMP PAGO SRA SIGALA.pdf
+│   ├── COMP.JOSE SILVA.pdf
+│   ├── COT DON SANTIAGO.PDF
+│   ├── COT ESTEBAN VIDA MANCOMUNADO.pdf
+│   ├── COT G.M IVAN.PDF
+│   ├── COT G.M MARIO.PDF
+│   ├── COT GABRIEL.PDF
+│   ├── COT GASTOS MEDICOS SIRIA.PDF
+│   ├── COT IVAN FLOTA.PDF
+│   ├── COT IVAN G.M..pdf
+│   ├── COT JORGE OCHOA.PDF
+│   ├── COT JOSE SILVA.pdf
+│   ├── COT NUEVA SR GUTIERREZ.pdf
+│   ├── COT TOÑO.pdf
+│   ├── COT.SIRIA.PDF
+│   ├── COTIZACION MARIO.pdf
+│   ├── COTIZACION.pdf
+│   ├── Copia de UDIversifícate-V2017.5.xlsm
+│   ├── DANIEL THIESSEN.pdf
+│   ├── DR RGUEZ.pdf
+│   ├── EDO DE CUENTA.pdf
+│   ├── ENDOSO ESTELA.pdf
+│   ├── ENDOSO LUIS DE LA PEÑA.pdf
+│   ├── ENDOSO SR HEINRICH.pdf
+│   ├── ENDOSOS
+│   ├── FACTURA IVAN.pdf
+│   ├── FLEX 35 MARIO FLOTA Q..PDF
+│   ├── FLEX 55 MARIO FLOTA.PDF
+│   ├── FORMATO BENJAMIN FROESE.pdf
+│   ├── FORMATO UNICO ESTEBAN.pdf
+│   ├── FORMATO UNICO HIDROPROYECTOS.pdf
+│   ├── FORMATO UNICO JOHAN BANMAN.pdf
+│   ├── FORMATO UNICO JOSE.pdf
+│   ├── FORMATO UNICO JUAN ANGEL Y OLIVIA.pdf
+│   ├── FORMATO UNICO MARIO.pdf
+│   ├── FORMATO UNICO MENY.pdf
+│   ├── FORMATO UNICO RAMIRO Y SALMA.pdf
+│   ├── FORMATO UNICO TOÑO.pdf
+│   ├── FORMATO UNICO VERO.pdf
+│   ├── Formato Alejandro cardona.pdf
+│   ├── HUGO FACIO 1.pdf
+│   ├── HUGO FACIO PDF 1.pdf
+│   ├── HUGO FACIO PDF.pdf
+│   ├── HUGO FACIO XML.xml
+│   ├── HUGO FACIO.pdf
+│   ├── IDENTIFICACION Y COMP DOMICIO TOÑO Y ESPOSA.pdf
+│   ├── IFE ALBERTO ALVAREZ.pdf
+│   ├── IFE ALONSO.pdf
+│   ├── IFE ARMANDO.pdf
+│   ├── IFE BENJAMIN.pdf
+│   ├── IFE CERVANDO.pdf
+│   ├── IFE CORNELIUS.pdf
+│   ├── IFE DAVID PETERS.pdf
+│   ├── IFE DR GUEVARA.pdf
+│   ├── IFE EDWIN GIESBRECHT.pdf
+│   ├── IFE ESPOSA ESTEBAN.pdf
+│   ├── IFE ESTEBAN.pdf
+│   ├── IFE GABRIEL.pdf
+│   ├── IFE IVAN HIJO.pdf
+│   ├── IFE IVAN.pdf
+│   ├── IFE JOHAN BANMAN.pdf
+│   ├── IFE JORGE ACOSTA.pdf
+│   ├── IFE JUAN ANGEL.pdf
+│   ├── IFE MARIO LUJAN.pdf
+│   ├── IFE MENY.pdf
+│   ├── IFE OLIVIA MORALES.pdf
+│   ├── IFE SIRIA.pdf
+│   ├── IFE SR DE LA O.pdf
+│   ├── IFE SRA MAC DONALD.pdf
+│   ├── IFE SUSANA VILLARREAL.pdf
+│   ├── IFE VERO.pdf
+│   ├── IFE Valentín.pdf
+│   ├── IFE Y COMP DOMICILIO RAMIRO Y SALMA.pdf
+│   ├── JOSE DOC - Acceso directo.lnk
+│   ├── JULIOS GASTOS MEDICOS IVAN.pdf
+│   ├── MAT CEDULA B 20.pdf
+│   ├── MAT CEDULA B 22.pdf
+│   ├── No borrar - Acceso directo (3).lnk
+│   ├── No borrar - Acceso directo.lnk
+│   ├── Norma Velazque17ded.pdf
+│   ├── Norma Velazquez 35ded.pdf
+│   ├── ORDE DE TRABAJO HIDROPROYECTOS.xls
+│   ├── ORDEN TRABAJO BALTAZAR.xls
+│   ├── PDF MONICA PIÑON.pdf
+│   ├── PDF SR CHAVEZ.pdf
+│   ├── PDFS ESCRITORIO
+│   ├── POLIZA ANA GIESBRECHT.pdf
+│   ├── POLIZA BRIAN.pdf
+│   ├── POLIZA CHUY.pdf
+│   ├── POLIZA CIVIC TELY.pdf
+│   ├── POLIZA DON MARGARITO.pdf
+│   ├── POLIZA FITO 2.pdf
+│   ├── POLIZA FITO.pdf
+│   ├── POLIZA GASTOS MEDICOS IVAN 2.pdf
+│   ├── POLIZA GASTOS MEDICOS IVAN 4.pdf
+│   ├── POLIZA HECTOR.pdf
+│   ├── POLIZA KALU.pdf
+│   ├── POLIZA LUIS NOE.pdf
+│   ├── POLIZA SR CHAVEZ.pdf
+│   ├── POLIZA SR GIESBRECHT.pdf
+│   ├── POLIZA SR TARANGO.pdf
+│   ├── POLIZA SRA GAMBOA.pdf
+│   ├── PROMOCION 12 MESES SIN INTERESES.xlsx
+│   ├── PÓLIZAS
+│   ├── RICARDO LOYA 2.pdf
+│   ├── RICARDO LOYA.pdf
+│   ├── SOLIC CAPTURADA MENY.pdf
+│   ├── SOLIC.MENY.pdf
+│   ├── SOLICITUD ALONSO.pdf
+│   ├── SOLICITUD ARMANDO.pdf
+│   ├── SOLICITUD BENJAMIN FROESE.pdf
+│   ├── SOLICITUD CORNELIUS.pdf
+│   ├── SOLICITUD DAVID PETERS.pdf
+│   ├── SOLICITUD G.M MARIO.pdf
+│   ├── SOLICITUD GABRIEL.pdf
+│   ├── SOLICITUD HIDROPROYECTOS.pdf
+│   ├── SOLICITUD IVAN.pdf
+│   ├── SOLICITUD JOHAN BANMAN.pdf
+│   ├── SOLICITUD JOSE ALFREDO.pdf
+│   ├── SOLICITUD JOSE.pdf
+│   ├── SOLICITUD JUAN ANGEL.pdf
+│   ├── SOLICITUD NORMA.pdf
+│   ├── SOLICITUD PETER NEUFELD.pdf
+│   ├── SOLICITUD SIRIA.pdf
+│   ├── SOLICITUD SR DE LA O.pdf
+│   ├── SOLICITUD SRA MAC DONALD.pdf
+│   ├── SOLICITUD TOÑO NUEVA.pdf
+│   ├── SOLICITUD TOÑO.pdf
+│   ├── SOLICITUD VALENTIN.pdf
+│   ├── SOLICITUD VERO.pdf
+│   ├── SOLICITUD VIDA HIDROPROYECTOS.pdf
+│   ├── SOLICITUD VIDA MARIO.pdf
+│   ├── SOLICITUDES SISE
+│   ├── SOLICTUD JORGE ACOSTA.pdf
+│   ├── SR SANTIAGO.pdf
+│   ├── SR TREJO 2.PDF
+│   ├── SR TREJO.PDF
+│   ├── Solicitud de Cambio de Conducto CA-091-5.pdf
+│   ├── cedula y guia.pdf
+│   ├── comp dom bonifacio.pdf
+│   ├── comp dom.Santiago de la o.pdf
+│   ├── comp domicilio alejandro cardona.pdf
+│   ├── comp domicilio siria.pdf
+│   ├── comp norma IFE,DOM. Y ESTUDIO.pdf
+│   ├── comp rosa nuevo.pdf
+│   ├── comp rosa.pdf
+│   ├── comp.dom esteban.pdf
+│   ├── comp.domicilio valentin.pdf
+│   ├── cot alejandro cardona.pdf
+│   ├── cot siria.PDF
+│   ├── cotización.pdf
+│   ├── doc.esther portillo.pdf
+│   ├── folio mercantil.pdf
+│   ├── formato edwin giesbrecht.pdf
+│   ├── formato jose silva.pdf
+│   ├── ife Santiago de la o.pdf
+│   ├── ife alejandro cardona.pdf
+│   ├── ife bonifacio.pdf
+│   ├── ife jose silva.pdf
+│   ├── ife siria nueva.pdf
+│   ├── marzo-abril 6300.pdf
+│   ├── miriam burrola 2018 - copia
+│   ├── respDell
+│   ├── solicitud Alejandro cardona.pdf
+│   ├── solicitud Esteban.pdf
+│   ├── solicitud Jose silva.pdf
+│   ├── solicitud Santiago de la o.pdf
+│   ├── solicitud bonifacio.pdf
+│   ├── solicitud cervando.pdf
+│   ├── solicitud edwin giesbrecht.pdf
+│   ├── solicitud firmada.pdf
+│   └── solicitudes sise - Acceso directo.lnk
+├── Navegador Opera.lnk
+├── Notebuks
+│   ├── 1.1_notebook_quizz_v2.ipynb
+│   ├── Codigo Curso Python
+│   ├── PY0101EN-3-3-Functions.ipynb
+│   ├── PY0101EN-4-3-LoadData.ipynb
+│   ├── PY0101ES-1.1_notebook_quizz_v2.ipynb
+│   ├── PY0101ES-3-4-Clases.ipynb
+│   ├── PY0101ES-4-1-Lectura_De_Archivos.ipynb
+│   ├── PY0101ES-4-2-Escritura_De_Archivos.ipynb
+│   ├── PY0101ES-4.3_notebook_quizz_pandas.ipynb
+│   └── PY0101ES-4.4_notebook_quizz_pandas.ipynb
+├── Personal - Edge.lnk
+├── PlatziXls
+│   ├── Order.xlsx
+│   └── general.xlsx
+├── Rfiles
+│   ├── PlantGrowth1.Rmd
+│   ├── PlantGrowth1.nb.html
+│   ├── costosProd.csv
+│   ├── dframes.Rmd
+│   ├── dframes.nb.html
+│   ├── p1.Rmd
+│   └── p1.nb.html
+├── S-CROSS JUAN DIEGO.pdf
+├── SILVA - Chrome.lnk
+├── SUZUKI JUAN DIEGO.pdf
+├── Solicitud perla.pdf
+├── Spotify.lnk
+├── SystemCompatibilityReport.txt
+├── Visual Studio Code.lnk
+├── Zoom.lnk
+├── atom - Acceso directo.lnk
+├── clinico.docx
+├── desktop.ini
+├── g1th0b.txt
+├── geckodriver.log
+├── hw.py
+├── index.html
+├── project_1
+│   └── arbol.txt
+├── py4e
+│   ├── 6ej5.py
+│   ├── 6ej5extraer.py
+│   ├── Apis
+│   ├── ApiyesoIBM.txt
+│   ├── Calif.py
+│   ├── Hw-1.py
+│   ├── Mates fin
+│   ├── Otros
+│   ├── PAGmsjOpc.py
+│   ├── Pandas
+│   ├── Rutas.txt
+│   ├── Salario bruto
+│   ├── Salario_bruto.py
+│   ├── Sockets
+│   ├── Untitled-1.py
+│   ├── __pycache__
+│   ├── a.py
+│   ├── algodewatsonstudiolenguajeapi.txt
+│   ├── arana.sqlite
+│   ├── asda.txt
+│   ├── bdd.py
+│   ├── bdd2.py
+│   ├── calif2.py
+│   ├── codes
+│   ├── cuentaletras.py
+│   ├── cuentaletras2.py
+│   ├── de0a100.py
+│   ├── destAfall.txt
+│   ├── dona[1].py
+│   ├── ej1t7.py
+│   ├── ejspam.py
+│   ├── exper1.py
+│   ├── exporden.py
+│   ├── exppunt.py
+│   ├── exprreg1.py
+│   ├── exptup.py
+│   ├── expun.txt
+│   ├── expunt.txt
+│   ├── first.py
+│   ├── fix_historia.csv
+│   ├── hallardato.py
+│   ├── imprDiaNmbox.py
+│   ├── indice.py
+│   ├── indice2.py
+│   ├── jkvhcvjhb.py
+│   ├── json
+│   ├── jsonpersonas2.json
+│   ├── kivy.pdf
+│   ├── lasipes.txt
+│   ├── make_bricks.py
+│   ├── make_chocolate.py
+│   ├── mayorymenor.py
+│   ├── mayorymenor2.py
+│   ├── mbox-short.txt
+│   ├── mbox.txt
+│   ├── musica.sqlite
+│   ├── nuevo.py
+│   ├── personas.json
+│   ├── personas2.json
+│   ├── personas3.json
+│   ├── promc.py
+│   ├── promedio.py
+│   ├── promedio2.py
+│   ├── prueba.py
+│   ├── regre.py
+│   ├── romeo.txt
+│   ├── salario_enbase_tarifa.py
+│   ├── salario_tarifa2.py
+│   ├── sockets_p.py
+│   ├── sockets_p2.py
+│   ├── soft.py
+│   ├── spamPag.py
+│   ├── sumar.py
+│   ├── t10ej1.py
+│   ├── t10ej2.py
+│   ├── t10ej3.py
+│   ├── t10exp1.py
+│   ├── t11ej1.py
+│   ├── t11ej2.py
+│   ├── t11exp1.py
+│   ├── t8ej1.py
+│   ├── t8ej4.py
+│   ├── t8ej5.py
+│   ├── t8ej6.py
+│   ├── t9ej1.py
+│   ├── t9ej2.py
+│   ├── t9ej3.py
+│   ├── t9ej5.py
+│   ├── tups.py
+│   ├── webo.py
+│   └── words.txt
+├── python_n
+│   └── n_stats.py
+├── silva rivera 2.pdf
+├── working_d.txt
+└── µTorrent.lnk
+
+38 directories, 358 files
