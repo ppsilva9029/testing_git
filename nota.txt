@@ -7,3 +7,5 @@ Caaaaambios
 Caaaaaaaambios extraños que hay en mí
 
 Index.html file has 
+
+Archivos hw.c, dft y str models añadidos
