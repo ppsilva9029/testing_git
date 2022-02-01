@@ -1,7 +1,8 @@
 
 
 def first_day(year: int) -> int:
-    bis = year + year//4 - year//100 + year//400
+    year-=1
+    bis = year+1 + year//4 - year//100 + year//400
     return bis % 7
 
 def dia_n(hoy, n):
@@ -33,12 +34,15 @@ def which_day_is(day, month, year):
     if es_bis(year) and month > 2:
         num_of_days+=1
     
+    #print(num_of_days)
     num_of_days += day - 1
-    # print(first)
+    
+    #print(first)
     
     day_int = (first + num_of_days) % 7
     return dicc_dia[day_int]
 
 
 if __name__ == "__main__":
-    print(which_day_is(17, 8, 2020))
+    # print(first_day(2016))
+    print(which_day_is(1, 1, 2015))
