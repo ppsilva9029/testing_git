@@ -45,4 +45,4 @@ def which_day_is(day, month, year):
 
 if __name__ == "__main__":
     # print(first_day(2016))
-    print(which_day_is(1, 1, 2015))
+    print(which_day_is(1, 1, 1902))
