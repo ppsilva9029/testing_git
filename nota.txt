@@ -12,3 +12,5 @@ Archivos hw.c, dft y str models añadidos
 
 Agregado archivo_py con funcion para saber el cada día de la semana 
 de determinada fecha según el calendario gregoriano.
+
+Cambio de protocolo https a ssh en github.
